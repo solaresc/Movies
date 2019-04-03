@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="movies.xslt"?>
+
+<movies>
+  <movie id="1">
+    <title>Avengers: Infinity War</title>
+    <director>Anthony and Joe Russo</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Fantasy</genre>
+    <imdb>https://www.imdb.com/title/tt4154756/</imdb>
+  </movie>
+  <movie id="2">
+    <title>Guardians of the Galaxy</title>
+    <director>James Gunn</director>
+    <year>2014</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <imdb>https://www.imdb.com/title/tt2015381/</imdb>
+  </movie>
+  <movie id="3">
+    <title>Guardians of the Galaxy Vol 2</title>
+    <director>James Gunn</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <imdb>https://www.imdb.com/title/tt3896198/</imdb>
+  </movie>
+  <movie id="4">
+    <title>Captain America: Civil War</title>
+    <director>Anthony and Joe Russo</director>
+    <year>2016</year>
+   <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <imdb>https://www.imdb.com/title/tt3498820/</imdb>
+  </movie>
+  <movie id="5">
+    <title>Thor: Ragnarok</title>
+    <director>Taika Waititi</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <imdb>https://www.imdb.com/title/tt3501632/</imdb>
+  </movie>
+  <movie id="6">
+    <title>Spider-Man: Homecoming</title>
+    <director>Jon Watts</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <imdb>https://www.imdb.com/title/tt2250912/</imdb>
+  </movie>
+  <movie id="7">
+    <title>Spider-Man</title>
+    <director>Sam Raimi</director>
+    <year>2002</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <imdb>https://www.imdb.com/title/tt0145487/</imdb>
+  </movie>
+  <movie id="8" type="lame">
+    <title>Spider-Man 2</title>
+    <director>Sam Raimi</director>
+    <year>2004</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+  </movie>
+  <movie id="9">
+    <title>Ant-Man and the Wasp</title>
+    <director>Peyton Reed</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <imdb>https://www.imdb.com/title/tt5095030/</imdb>
+  </movie>
+  <movie id="10">
+    <title>Beauty and the Beast</title>
+    <director>Bill Condon</director>
+    <year>2017</year>
+    <genre>Family</genre>
+    <genre>Fantasy</genre>
+    <genre>Musical</genre>
+    <imdb>https://www.imdb.com/title/tt2771200/</imdb>
+  </movie>
+  <movie id="11">
+    <title>Tag</title>
+    <director>Jeff Tomsic</director>
+    <year>2018</year>
+    <genre>Comedy</genre>
+    <imdb>https://www.imdb.com/title/tt2854926/</imdb>
+  </movie>
+  <movie id="12">
+    <title>It</title>
+    <director>Andy Mushietti</director>
+    <year>2017</year>
+    <genre>Drama</genre>
+    <genre>Horror</genre>
+    <genre>Thriller</genre>
+    <imdb>https://www.imdb.com/title/tt1396484/</imdb>
+  </movie>
+  <movie id="13" type="lame">
+    <title>Deadpool 2</title>
+    <director>David Leitch</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+  </movie>
+  <movie id="14" type="lame">
+    <title>Venom</title>
+    <director>Ruben Fleischer</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+  </movie>
+  <movie id="15">
+    <title>The Incredibles</title>
+    <director>Brad Bird</director>
+    <year>2004</year>
+    <genre>Animation</genre>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <imdb>https://www.imdb.com/title/tt0317705/</imdb>
+  </movie>
+</movies>
